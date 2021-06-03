@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. James R. James the Seventh, by the grace of God, King of Scotland, England, France, and Ireland, Defender of the Faith, &amp;c. To all and sundry our good subjects, whom these presents do or may concern, greeting. Since our accession to the throne of our royal ancestors, our chiefest care has been to procure the security, peace and happiness of our subjects, ...</title>
+            <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25024</idno><idno type="EEBO-CITATION">99887716</idno>
+  <idno type="VID">190753</idno>
+  <idno type="EEBO-PROQUEST">2240894934</idno>
+  
+            <idno type="STC">Wing J256</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.3[31]</idno>
+            <idno type="STC">ESTC R228242</idno>
+            <idno type="PROQUEST">ocm99887716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887716e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190753)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement C24:1[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. James R. James the Seventh, by the grace of God, King of Scotland, England, France, and Ireland, Defender of the Faith, &amp;c. To all and sundry our good subjects, whom these presents do or may concern, greeting. Since our accession to the throne of our royal ancestors, our chiefest care has been to procure the security, peace and happiness of our subjects, ...</title>
+                  <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, printed by the heir of Andrew Anderson, printer to His most sacred Majesty: and reprinted at London by George Croom at the Blew Ball in Thames-street, 1688. With allowance,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Confirming the Proclamation for Liberty of Conscience in Scotland." -- Steele.</note>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>At end of text: Given under our royal hand and signet at our court at Whitehall the 7th day of May 1688, and of our reign the fourth year.</note>
+                  <note>With an order to print at end, dated: Edinburgh May 15. 1688.</note>
+                  <note>Steele notation: Arms 258 Subjects Our be.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:190753:1"/>
+            <head>
+               <figure>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the KING, A PROCLAMATION. <add>Confirming his Declarao<seg rend="sup">c</seg>n of Liberty of Conscience in Scotland. 28. May .1688.</add>
+            </head>
+            <opener>
+               <signed>
+                  <hi>JAMES</hi> R.</signed>
+               <lb/>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">J</seg>AMES</hi> the Seventh, by the Grace of God, King of<hi>Scotland, England, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To all and sundry Our good Subjects, whom these Presents do or may Concern, Greeting.</salute>
+            </opener>
+            <p>Since Our Accession to the Throne of Our Royal Ancestors, Our chiefest Care has been to pro<g ref="char:EOLhyphen"/>cure the Security, Peace and Happiness of Our Subjects, by all the ways Our Paternal Care of Our People could suggest to Vs, especially by removing the Pressures of <hi>Penal Laws,</hi> in matters of meer Religion, and forbidding all differencing <hi>Oaths</hi> and <hi>Tests,</hi> whose unreasonable Weight hung heavy on Vs and our People, Precluding both from Our Native-freedom and Birth-right: And this We did by Our Royal Declaration of the Date the 12<hi>th.</hi> of <hi>February,</hi> 1687. In which Declaration, We were pleased, for the great and weighty Causes and Considerations therein mentioned, and by vertue of Our Soveraign Authority, Prerogative Royal, and Absolute Power, so plainly acknowledged by several <hi>Acts of Parliament,</hi> and especially by the 2<hi>d. Act</hi> of Our First <hi>Parliame<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> To Give and Grant Our Royal <hi>Toleration</hi> to all the Professors of the <hi>Christian Religion</hi> therein named, and with and under certain Condi<g ref="char:EOLhyphen"/>tions, Restrictions, and Limitations, judged by Vs for the Time to be necessary. Requiring and expecting, that all Our good Subjects would give their Assistance and Concourse thereunto, on all Occasions, in their respective Capacities; Suspending, Disabling and stopping all Penal Laws, Acts of Parliament, Customs or Constitutions, made or executed against Dissenters for matters of meer Religion. And further, We did Cass, Annul and Discharge, all Oaths whatsoever, by which any were Disabled from holding Places or Offices, or enjoying their Hereditary Rights and Priviledges; Discharging the same to be thence-forward given or taken, without our special Warrand; Stopping, Disabling and Dispensing, as well with all Laws enjoyning the said Oaths and Tests, as with the other Penal Laws there<g ref="char:EOLhyphen"/>in mentioned; and Declaring, that it never was Our Principle, nor would We suffer Violence to be offered to any mans Conscience, or Force to be used against any man, on the account of his Perswasion; And thar We would employ indifferently all Our Subjects, of all Perswasions, so as none should méet with any Discourage<g ref="char:EOLhyphen"/>ment on the account of his Religion, but be Advanced and Estéemed by Vs, according to their several Capacities and Qualifications, so long as We should find Charity and Vnity maintained: And if any Animosities should Arise, that then We would show the severest Effects of Our Royal Displeasure against the Beginners or Fomen<g ref="char:EOLhyphen"/>ters thereof, seeing thereby Our Subjects might be deprived of that general Ease and Satisfaction that We did intend to all of them, whose Happiness, Prosperity, Wealth and Safety were so much in Our Royal Care, that We would leave nothing undone that might procure these Blessings for them. We did likewise Declare, that We were resolved to maintain our Arch-bishops and Bishops of the <hi>Protestant Religion,</hi> with all the inferior Clergy, in the full and frée Possession of their Rights and Priviledges, as they now enjoy them, and all Our Protestant Subjects, in the frée Exercise of their Religion; As likewise, the Possessors of Church or Abbay-Lands, in their full Right of their Possessions, according to Law, in that Ease already provided; Likewise, Granting Our Indemnity, with such Exceptions, as in the foresaid Proclamation is more fully expressed. Thereafter, We thought fit to Explain and Enlarge the same, by Our second Declaration, bearing date at <hi>Windsor,</hi> the 28 day of <hi>June</hi> last by past, of which the Tenor follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_proclamation">
+                        <opener>
+                           <salute>
+                              <hi>JAMES</hi> the Seventh, by the Grace of GOD, King of <hi>Scotland, England, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To all and sundry Our good Subjects whom these Presents do or may Concern, Greeting.</salute>
+                        </opener>
+                        <p>Whereas by Our Royal Proclamation of the date the 12 day, of <hi>February</hi> 1686. We were graciously pleased for the Causes, on the Terms therein mentioned to grant Our Royal Toleration to the Professors of the Christian Religion therein named; With and under certain Restrictions and Limitations; All which are in the said Proclamation more at length expressed: We now taking into Our Royal Consideration the sinistruous Interpretations, which either have, or may be made of some Restrictions, therein mentioned; Have thought fit by this Our Royal Proclamation, further to declare, that We will Protect Our Arch-Bishops, and Bishops, and all Our Subjects of the Protestant Religion, in the free Exercise of their Protestant Religion, as it is by Law Established, and in the Quiet and full Enjoyment of all their Possessions, without any Molestation or Disturbance whatsoever. And We do likewise by Our Soveraign Authority, Prerogative Royal and Absolute Power, Suspend, Stop and Disable, all Penal and Sanguinary Laws, made against any for Non-conformity to the Religion Established by Law, in that Our Antient Kingdom, or for Exercising their respective Worships, Religions, Rites and Ceremonies; All which Laws are hereby Stopt, Suspended and Disabled to all Intents and Purposes. And to the end that by the Liberty thereby granted, the Peace and Security of Our Government in the Practice thereof, may not be Endangered, We have thought fit, and We do hereby straitly Charge and Command all Our Loving Subjects, that as we do freely give them leave to Meet and Serve God after their own Way and Manner, be it in private Houses, Chappels, or Places purposely Hired or Built for that use, so that they take care that nothing be Preached or Taught among them which may any ways tend to Alienate the Hearts of Our People from Us, or Our Government, and that their Meetings be peaceably, openly and publickly held, and all Persons freely admitted to them, and that they do signifie and make known to some one or more of the next Privy Counsellors, Sheriffs, Stewards, Bailies, Justices of the Peace, or Magistrates of Burghs-Royal, what Place or Places they set apart for these uses, with the Names of the Preachers.</p>
+                        <p>And that all Our Subjects may enjoy such their Religious Assemblies with greater Assurance and Protection, We have thought fit, and do hereby Command, That no Disturbance of any kind be made or given unto them, under pain of Our Royal Displeasure, and to be further proceeded against, with the outmost Severity; Provided always, that their Meetings be in Houses or Places provided for the purpose, and not in the open Fields, for which, now after this Our Royal Grace and Favour shown (which surpasses the Hopes, and equals the very Wishes of the most zealously concerned,) there is not the least shadow of Excuse left; Which meetings in Fields; We do hereby strictly Prohibite and Forbid, against all which We do leave Our Laws and Acts of Parliament in full force and vigour, notwithstanding the Premisses; And do further Command, all Our Judges, Magistrates, and Officers of Our Forces, to prosecute such as shall be guilty of the saids Field-Conventicles or assemblies, with the outmost Rigour, as they would avoid Our Highest Displeasure; For We are confident, none will (after these Liber<g ref="char:EOLhyphen"/>ties and Freedoms We have given to all, without reserve, to serve GOD in their own way) presume to meet in these Assemblies, except such as make a pretence of Religion, to cover their Treasonable Designs, against Our Royal Person, and the Peace of our Government. And Lastly, to the end all Our good Subjects may have notice of this Our Royal Will and Pleasure, We do hereby Command Our Lyon King at Arms, and his brethren Heraulds, Macers, Pursevants and Messengers at Arms, to make timeous Proclamation thereof at the Mer<g ref="char:EOLhyphen"/>cat-Cross of <hi>Edinburgh;</hi> And besides the Printing and Publishing of this Our Royal Proclamation, It is Our express Will and Pleasure, that the same be past under Our Great Seal of that Our Kingdom <hi>per saltum,</hi> without passing any other Seal or Register. In order whereunto, these shall be to the Directors o<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Our Chancery and their Deputes, for Writing the same, and to Our Chancellor, for causing Our Great Seal aforesaid to be Appended thereunto, a sufficient Warrand.</p>
+                        <closer>
+                           <dateline>Given at Our Court at <hi>Windsor</hi>
+                              <date>the 28. day of <hi>June.</hi> 1687. And of Our Reign the Third Year.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And in pursuance of Our Royal Intentions therein expressed, We have Dissolved all Our Iudicatures of Privy Council, Session, Exchequer, Iusticiary, and Magi<g ref="char:EOLhyphen"/>stracy of Our Burgh-Royal, that by their Acceptations of new Commissions on the terms of Our Royal Pleasure as above-expressed, We might Convince the World of the Iustice of Our Procedure, as the Vniversal thanks of Our People has manifested their Ioy, for so unexpected, unhoped for Blessings, terminating at once their Per<g ref="char:EOLhyphen"/>secutions, and fréeing Our Self from the bad Consequences thereof, too manifest in by-past Reigns, to be forgotten in this; And yet there are still some Enemies to Vs, and to their own Peace, who labour to lessen the Happiness Our People enjoy, by Fears and Iealousies, that it will not be lasting; But We will let them, and all the World know, that Our Care, shall be more indefatigable, to Prevent and Defeat their Malice, than they shall be to Contrive or Act the same. And therefore, We have again thought fit to Declare our Royal Intentions, to Stand to, and Maintain Our first Declaration, of the date the 12 of <hi>February</hi> 1687, in so far as it is above-re<g ref="char:EOLhyphen"/>peated, and as it is Explained and Enlarged by Our second of the date the 28 of <hi>June,</hi> according to the true Meaning and Import of the same. And if any shall be so bold as to refuse their due Concurrence with, or Obedience to Vs in these Points, they shall find the weight o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Our Royal Displeasure, so as to terrifie others from the like Vndutifulness to Our Royal Authority, whilst on the other part, such as Dutifully Obey and Act as become them, shall Enjoy the Comfort of Our Royal Protection and Favour. And to the end all Our good Subjects may have notice of this Our Royal Will and Pleasure, We do hereby Command Our Lyon King at Arms, and his Bre<g ref="char:EOLhyphen"/>thren Heraulds, Macers, Pursevants, and Messengers at Arms, to make timeous Proclamation thereof at the Mercat-Cross of <hi>Edinburgh.</hi> For all which, This shall be to all Persons respectively, who may be therein any way Concerned, a sufficient Warrand.</p>
+            <closer>
+               <dateline>Given under Our Royal Hand and Signet at Our Court at <hi>Whitehall</hi>
+                  <date>the 7<hi>th</hi> day of <hi>May</hi> 1688. and of Our Reign the Fourth Year.</date>
+               </dateline>
+               <signed>By His <hi>Majesties</hi> Command, <hi>MELFORT.</hi>
+               </signed>
+
+ GOD SAVE THE KING.</closer>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Edinburgh May 15. 1688.</date>
+                  </dateline>
+               </opener>
+               <p>Present in Council.
+<list>
+                     <item>The Earl of <hi>Perth</hi> Lord high Chancellor</item>
+                     <item>The Lord Arch-Bishop of St. <hi>Andrews</hi>
+                     </item>
+                     <item>The Lord Arch-Bishop of <hi>Glasgow</hi>
+                     </item>
+                     <item>The Lord Marquess of <hi>Athol</hi> Privy Seal</item>
+                     <item>The Earl of <hi>Linlithgow</hi>
+                     </item>
+                     <item>The Earl of <hi>Strathmore</hi>
+                     </item>
+                     <item>The Earl of <hi>Lauderdale</hi>
+                     </item>
+                     <item>The Earl of <hi>Traquair</hi>
+                     </item>
+                     <item>The Earl of <hi>Belcarras</hi>
+                     </item>
+                     <item>The Lord Viscount of <hi>Tarbat</hi>
+                     </item>
+                     <item>The Master of <hi>Balmerino</hi>
+                     </item>
+                     <item>The Lord President of Session</item>
+                     <item>The Lord Advocat</item>
+                     <item>The Lord Justice Clerk</item>
+                     <item>The Lord <hi>Castlehil</hi>
+                     </item>
+                     <item>General Major <hi>Grahame</hi> of <hi>Claverhouse</hi>
+                     </item>
+                     <item>The Laird of <hi>Niddrie.</hi>
+                     </item>
+                  </list>
+               </p>
+            </postscript>
+            <postscript>
+               <p>THe above written Proclamation from His most Sacred <hi>Majesty,</hi> being Read in His Privy Council of <hi>Scotland,</hi> was (in pursuance of His Majesties Royal Commands) Ordered to be Published the Morrow, at the ordinary time, with all due Solemnities. Extracted forth of the Records of His Majesties most Honourable Privy Council by me</p>
+               <closer>
+                  <signed>WILL PATERSON, Cls. Sti. Consilii.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred Majesty: And Reprinted at <hi>London</hi> by <hi>George Croom,</hi> at the <hi>Blew Ball</hi> in <hi>Thames-street,</hi> 1688. <hi>With Allowance.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
